@@ -1,0 +1,16 @@
+<ion-view title="Акции">
+  <ion-content class="has-header">
+
+ <div class="list">
+ 	<a ng-repeat="sale in sales" 
+           href="#/tab/sales/{{$index + 1}}"
+           class="item item-thumbnail-left">
+
+          <img ng-src="{{ sale.thumbnail }}">
+          <h2>{{sale.name}}</h2>
+    </a>
+ </div>
+
+ <div ng-hide="sales" class='list'> Извините, для работы приложения необходимо подключение к сети Интернет.</div>
+  </ion-content>
+</ion-view>

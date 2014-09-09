@@ -1,0 +1,866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poin",
+				"pointCount"
+			],
+			[
+				"poi",
+				"pointCount"
+			],
+			[
+				"point",
+				"pointCountObject"
+			],
+			[
+				"getge",
+				"getgeo"
+			],
+			[
+				"getg",
+				"getgeo"
+			],
+			[
+				"get",
+				"getGeoPosition"
+			],
+			[
+				"ge",
+				"geolocation"
+			],
+			[
+				"vaca",
+				"vacancies"
+			],
+			[
+				"vacan",
+				"vacancies"
+			],
+			[
+				"stree",
+				"street_number"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"page_",
+				"page_contacts"
+			],
+			[
+				"htt",
+				"Http404"
+			],
+			[
+				"va",
+				"vacancy"
+			],
+			[
+				"STAT",
+				"STATIC_ROOT"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"new",
+				"new_image"
+			],
+			[
+				"Model",
+				"ModelForm"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"con",
+				"contrib"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"templ",
+				"templates"
+			],
+			[
+				"MEI",
+				"MEDIA_PATH"
+			],
+			[
+				"FILES",
+				"FILES"
+			],
+			[
+				"HTT",
+				"HttpResponseRedirect"
+			],
+			[
+				"MED",
+				"MEDIA_PATH"
+			],
+			[
+				"Pho",
+				"Photo"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Photo",
+				"PhotoForm"
+			],
+			[
+				"DA",
+				"DATABASE_PATH"
+			],
+			[
+				"proj",
+				"PROJECT_PATH"
+			],
+			[
+				"ver",
+				"verbose_name"
+			],
+			[
+				"up",
+				"upload_to"
+			],
+			[
+				"Template",
+				"TEMPLATE_PATH"
+			],
+			[
+				"Pro",
+				"PROJECT_PATH"
+			],
+			[
+				"Mode",
+				"ModelForm"
+			],
+			[
+				"bi",
+				"birthday"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mod",
+				"mod_right"
+			],
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "platforms/ios/www/templates/tab-about.html",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "platforms/ios/www/templates/tab-operator.html",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/air/Desktop/tabsapp2",
+		"/Users/air/Desktop/tabsapp2/platforms",
+		"/Users/air/Desktop/tabsapp2/platforms/ios",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/img",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/templates",
+		"/Users/air/Desktop/tabsapp2/www/templates"
+	],
+	"file_history":
+	[
+		"/Users/air/Dropbox/Sites/languagegame/index.html",
+		"/Users/air/Dropbox/Sites/languagegame/tasks.txt",
+		"/Users/air/Dropbox/Sites/languagegame/app.js",
+		"/Users/air/Library/Application Support/Sublime Text 3/Packages/User/console",
+		"/Users/air/Dropbox/Sites/cofeemap/spider/example.js",
+		"/Users/air/Downloads/вяжем спицами.txt",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1390673488/cooktalks/var/www/notagame/config/nginx.conf",
+		"/Users/air/Desktop/beta/angular/jsblog/jsblog/urls.py",
+		"/Users/air/Desktop/beta/angular/jsblog/jsblog/models.py",
+		"/Users/air/Desktop/beta/angular/jsblog/jsblog/views.py",
+		"/Users/air/Desktop/beta/angular/jsblog/templates/index.html",
+		"/Users/air/Desktop/beta/angular/jsblog/jsblog/settings.py",
+		"/Users/air/Desktop/beta/angular/jsblog/models.py",
+		"/Users/air/Desktop/beta/angular/env/lib/python2.7/site-packages/south/models.py",
+		"/Users/air/Downloads/phonegap-2.9.1/lib/ios/guides/Changing the JavaScript to Native Bridge Mode.md",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/detail.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/account/signup.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/account/email_confirm.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/account/email_confirmed.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/create.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/profile_edit.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/page.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/index.html",
+		"/Users/air/Desktop/beta/internboard/internboard/views.py",
+		"/Users/air/Desktop/beta/internboard/internboard/models.py",
+		"/Users/air/Desktop/beta/internboard/internboard/forms.py",
+		"/Users/air/Desktop/beta/internboard/sqlcleal.txt",
+		"/Users/air/Desktop/beta/internboard/internboard/urls.py",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/myvacancies.html",
+		"/Users/air/Desktop/beta/internboard/templates/profile_edit.html",
+		"/Users/air/Desktop/beta/internboard/internboard/settings.py",
+		"/Users/air/Desktop/beta/internboard/templates/index.html",
+		"/Users/air/Desktop/beta/internboard/templates/create.html",
+		"/Users/air/Desktop/beta/odl/odl/settings/base.py",
+		"/Users/air/Desktop/beta/odl/odl/settings/prod.py",
+		"/Users/air/Desktop/beta/internboard/internboard/maksim_settings.py",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/signup.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/account/login.html",
+		"/Users/air/Desktop/beta/internboard/templates/bootstrap/account/password_reset.html",
+		"/Users/air/Desktop/beta/internboard/env/lib/python2.7/site-packages/allauth/templates/account/login.html",
+		"/Users/air/Desktop/beta/internboard/env/lib/python2.7/site-packages/allauth/templates/openid/login.html",
+		"/Users/air/Desktop/beta/odl/odl/settings/pokidov_local.py",
+		"/Users/air/Documents/hobbies/odl/odl/settings/maksim_local.py",
+		"/Users/air/Documents/hobbies/odl/base/models.py",
+		"/Users/air/Documents/hobbies/odl/base/templates/odl/view_user.html",
+		"/Users/air/Documents/hobbies/odl/base/urls.py",
+		"/Users/air/Documents/hobbies/odl/base/views.py",
+		"/Users/air/Documents/hobbies/xxx/xxx/views.py",
+		"/Users/air/Documents/odl",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383584431/cooktalks/var/www/internboard/templates/index.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383579674/cooktalks/var/www/odl/base/templates/odl/create_first_place.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383579704/cooktalks/var/www/odl/base/templates/odl/index.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383580283/cooktalks/var/www/odl/custom_registration_backend/templates/registration/registration_form.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383580573/cooktalks/var/www/odl/locale/ru/LC_MESSAGES/django.po",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383578965/cooktalks/var/www/odl/custom_registration_backend/templates/registration/login_form.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383578378/cooktalks/var/www/odl/custom_registration_backend/templates/registration/registration_form.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1383564852/cooktalks/var/www/odl/custom_registration_backend/templates/registration/registration_form.html",
+		"/Users/air/Documents/hobbies/xxx/xxx/settings.py",
+		"/Users/air/Documents/hobbies/xxx/xxx/urls.py",
+		"/Users/air/Documents/hobbies/xxx/xxx/forms.py",
+		"/Users/air/Documents/hobbies/xxx/templates/create.html",
+		"/Users/air/Documents/hobbies/xxx/xxx/models.py",
+		"/Users/air/Documents/hobbies/xxx/templates/index.html",
+		"/Users/air/Dropbox/datings/sl_js/edit_profile.html",
+		"/Users/air/Documents/hobbies/xxx/xxx/wsgi.py",
+		"/Users/air/Documents/hobbies/odl/wsgi.py",
+		"/Users/air/Documents/hobbies/odl/odl/settings/base.py",
+		"/Users/air/Documents/hobbies/odl/base/migrations/0013_auto__del_chatparticipants__add_field_like_chat.py",
+		"/Users/air/Downloads/responsive_email_tpl/index.html",
+		"/Users/air/Dropbox/datings/js/script.js",
+		"/Users/air/Downloads/hh_update.py",
+		"/Users/air/Documents/hobbies/odl/base/forms.py",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1379335377/cooktalks/var/www/odl/base/urls.py",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1379334411/cooktalks/var/www/odl/base/models.py",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1379334336/cooktalks/var/www/odl/base/forms.py",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1379334862/cooktalks/var/www/odl/base/views.py",
+		"/Users/air/Desktop/ТП",
+		"/Users/air/Desktop/adminer.sql",
+		"/Users/air/Dropbox/datings/index.html",
+		"/Users/air/Documents/hobbies/odl/base/static/js/script.js",
+		"/Users/air/Documents/hobbies/odl/base/templates/odl/index.html",
+		"/Users/air/Documents/hobbies/odl/base/templates/odl/index.html.orig",
+		"/Users/air/Documents/hobbies/odl/base/templates/odl/edit_profile.html",
+		"/Users/air/Documents/hobbies/odl/base/static/js/maskedinput.min.js",
+		"/Users/air/Dropbox/datings/js/maskedinput.min.js",
+		"/Users/air/Dropbox/datings/edit_profile.html",
+		"/Users/air/Documents/hobbies/odl/templates/edit_profile.html",
+		"/Users/air/Documents/hobbies/odl/base/templates/registration/logout.html",
+		"/Users/air/Documents/hobbies/odl/base/static/css/ie8.css",
+		"/Users/air/Documents/hobbies/odl/base/static/css/style.css",
+		"/Users/air/Documents/hobbies/odl/templates/geo_forum.html",
+		"/Users/air/Dropbox/datings/css/style.css",
+		"/Users/air/Documents/hobbies/odl/templates/register.html",
+		"/Users/air/Documents/hobbies/odl/templates/chat.html",
+		"/Users/air/Documents/hobbies/odl/templates/crud_geo_forum.html",
+		"/Users/air/Documents/hobbies/odl/requirements/base.txt",
+		"/Users/air/Dropbox/Documents/PROJECTS/cooktalks/cooktal3105/cooktalks/userPage.html",
+		"/Users/air/edablog/edablog/templates/edablog/userList.html",
+		"/Users/air/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/cooktalks",
+		"/Users/air/Desktop/Flat-UI-master/bootstrap/css/prettify.css",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1376310216/cooktalks/var/www/notagame/templates/index.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1376310115/cooktalks/var/www/notagame/templates/odl_index.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1376310031/cooktalks/var/www/notagame/templates/index.html",
+		"/var/folders/yv/w4s4qy9n5_39gd2mqz_8rw_c0000gn/T/sublime-sftp-browse-1376310100/cooktalks/var/www/notagame/templates/index.html",
+		"/Users/air/Desktop/Flat-UI-master/index.html",
+		"/Users/air/Desktop/dist/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map",
+			"map_can",
+			"            <",
+			"biznesvchr",
+			"templ",
+			"d",
+			"secret_ke",
+			"Привет",
+			"get_user_mo",
+			"user",
+			"msgstr \"\"",
+			"mgstr \"\"",
+			"msgstr \"\"",
+			"mgstr",
+			"mgstr \"\"",
+			"					<",
+			"media",
+			"csrf",
+			"crea",
+			"templa",
+			"user",
+			"charset",
+			"birthda",
+			"max",
+			"birthda",
+			"url",
+			"    }",
+			"$('.selectbox').append('<ul class=\"select_list\"></ul>')",
+			" function placeholder_emul()",
+			"dl",
+			".input_wrapper.mod_1 ",
+			".profile_data_half",
+			" .profile_interests",
+			"profil",
+			"работа",
+			">\n",
+			".error_lebel",
+			"all",
+			"media",
+			"click",
+			"styles_for_pull_right",
+			"mod_righ",
+			"pick_loc",
+			"<div class=\"chat_msg_text\">",
+			"modal",
+			"holder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "platforms/ios/www/templates/tab-about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "platforms/ios/www/templates/tab-operator.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1057,
+								1057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "fortekst.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"set",
+				"jsblog/jsblog/settings.py"
+			],
+			[
+				"sett",
+				"jsblog/jsblog/settings.py"
+			],
+			[
+				"ur",
+				"jsblog/jsblog/urls.py"
+			],
+			[
+				"mode",
+				"env/lib/python2.7/site-packages/south/models.py"
+			],
+			[
+				"det",
+				"templates/bootstrap/detail.html"
+			],
+			[
+				"deta",
+				"templates/bootstrap/detail.html"
+			],
+			[
+				"pa",
+				"templates/bootstrap/page.html"
+			],
+			[
+				"pro",
+				"templates/bootstrap/profile_edit.html"
+			],
+			[
+				"create",
+				"templates/bootstrap/create.html"
+			],
+			[
+				"sign",
+				"templates/bootstrap/account/signup.html"
+			],
+			[
+				"email",
+				"templates/bootstrap/account/email_confirm.html"
+			],
+			[
+				"eail",
+				"templates/bootstrap/account/email_confirmed.html"
+			],
+			[
+				"sql",
+				"sqlcleal.txt"
+			],
+			[
+				"form",
+				"internboard/forms.py"
+			],
+			[
+				"view",
+				"internboard/views.py"
+			],
+			[
+				"mo",
+				"internboard/models.py"
+			],
+			[
+				"views",
+				"internboard/views.py"
+			],
+			[
+				"index",
+				"templates/bootstrap/index.html"
+			],
+			[
+				"in",
+				"templates/bootstrap/index.html"
+			],
+			[
+				"page",
+				"templates/bootstrap/page.html"
+			],
+			[
+				"se",
+				"internboard/settings.py"
+			],
+			[
+				"fo",
+				"internboard/forms.py"
+			],
+			[
+				"reset",
+				"templates/bootstrap/account/password_reset.html"
+			],
+			[
+				"login",
+				"templates/bootstrap/account/login.html"
+			],
+			[
+				"log",
+				"templates/bootstrap/account/login.html"
+			],
+			[
+				"login.html",
+				"templates/bootstrap/account/login.html"
+			],
+			[
+				"lo",
+				"templates/bootstrap/account/login.html"
+			],
+			[
+				"maks",
+				"internboard/maksim_settings.py"
+			],
+			[
+				"urls",
+				"odl/base/urls.py"
+			],
+			[
+				"maksim",
+				"odl/odl/settings/maksim_local.py"
+			],
+			[
+				"",
+				"xxx/xxx/views.py"
+			],
+			[
+				"vi",
+				"xxx/xxx/views.py"
+			],
+			[
+				"for",
+				"xxx/xxx/forms.py"
+			],
+			[
+				"crea",
+				"xxx/templates/create.html"
+			],
+			[
+				"creat",
+				"xxx/templates/create.html"
+			],
+			[
+				"ws",
+				"xxx/xxx/wsgi.py"
+			],
+			[
+				"settings",
+				"odl/odl/settings/base.py"
+			],
+			[
+				"u",
+				"xxx/xxx/urls.py"
+			],
+			[
+				"node",
+				"odl/base/migrations/0013_auto__del_chatparticipants__add_field_like_chat.py"
+			],
+			[
+				"x",
+				"xxx/settings.py"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"moed",
+				"base/models.py"
+			],
+			[
+				"scri",
+				"base/static/js/script.js"
+			],
+			[
+				"edit_pr",
+				"odl/templates/edit_profile.html"
+			],
+			[
+				"edit",
+				"datings/edit_profile.html"
+			],
+			[
+				"script",
+				"odl/base/static/js/script.js"
+			],
+			[
+				"logou",
+				"base/templates/registration/logout.html"
+			],
+			[
+				"url",
+				"base/urls.py"
+			],
+			[
+				"ie8",
+				"base/static/css/ie8.css"
+			],
+			[
+				"profil",
+				"base/templates/odl/edit_profile.html"
+			],
+			[
+				"sty",
+				"base/static/css/style.css"
+			],
+			[
+				"profi",
+				"templates/edit_profile.html"
+			],
+			[
+				"register",
+				"templates/register.html"
+			],
+			[
+				"scrip",
+				"base/static/js/script.js"
+			],
+			[
+				"chat",
+				"templates/chat.html"
+			],
+			[
+				"crud",
+				"templates/crud_geo_forum.html"
+			],
+			[
+				"user",
+				"edablog/templates/edablog/userList.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Checkbox"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
