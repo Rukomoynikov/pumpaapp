@@ -28,7 +28,6 @@ angular.module('starter.controllers', ['ionic'])
     $http.get("http://fortekst.ru/rest/rest_events.php?callback=JSONP_CALLBACK").success(function(data, status, headers, config) {
         $scope.events = data;
     });
-    if(typeof analytics !== "undefined") { analytics.trackView("Список событий"); }
 })
 
 .controller('EventDetailCtrl', function($scope, $stateParams, $http) {
@@ -38,13 +37,20 @@ angular.module('starter.controllers', ['ionic'])
     });
 
     $scope.send_form = function() {
-        var some = {
-            'name': 'Максим'
-        };
-        $http.get("http://fortekst.ru/rest/mailer.php?email='1@1.ru&name='Максим'&theme='Тема такая-то'").success(function(data, status, headers) {
-            alert('Спасибо, ваша заявка отправлена!')
-        })
-        $scope.form_sent = true;
+        var form = {
+            'name' : form_name.value,
+            'email' : form_email.value,
+            'phone' : form_phone.value,
+        }
+
+        $http({
+            url : 'http://fortekst.ru/rest/mailer.php',
+            method : 'POST',
+            data : 'Сообщение=' + form.name + ' ' + form.email + ' ' + form.phone,
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'}
+        }).then(function(response){
+        },function(response){
+        });
     };
 })
 
@@ -61,27 +67,45 @@ angular.module('starter.controllers', ['ionic'])
     });
 
     $scope.send_form = function() {
-        var error = false;
-        if ($scope.form_name == '') {
-            error = true;
+        var form = {
+            'name' : form_name.value,
+            'email' : form_email.value,
+            'phone' : form_phone.value,
+        }
 
-        }
-        if ($scope.form_email == '') {
-            error = true;
-        }
-        if ($scope.form_phone == '') {
-            error = true;
-        }
-        if (error == false) {
-            $scope.form_sent = true;
-        }
+        $http({
+            url : 'http://fortekst.ru/rest/mailer.php',
+            method : 'POST',
+            data : 'Сообщение=' + form.name + ' ' + form.email + ' ' + form.phone,
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'}
+        }).then(function(response){
+        },function(response){
+        });
     };
 })
 
 .controller('AboutCtrl', function($scope) {})
 
+    $scope.send_form = function() {
+        var form = {
+            'name' : form_name.value,
+            'email' : form_email.value,
+            'text' : form_text.value,
+        }
+
+        $http({
+            url : 'http://fortekst.ru/rest/mailer.php',
+            method : 'POST',
+            data : 'Сообщение=' + form.name + ' ' + form.email + ' ' + form.phone,
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'}
+        }).then(function(response){
+        },function(response){
+        });
+    };
+
 .filter('unsafe', function($sce) {
     return function(val) {
         return $sce.trustAsHtml(val);
     };
+
 })

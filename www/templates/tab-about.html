@@ -215,7 +215,7 @@
               <li><b>Адрес:</b> 107014, г.Москва, Попов проезд, д 1, корп. 1, офис 2</li>
               <li><b>Тел:</b>  <a style="text-decoration: underline; color: blue" type="tel">+7 (495) 249-17-71 </a>
               </li>
-              <li><b>e-mail:</b>  <a href="mailto:m.borzov@drgum.ru" target="_system">m.borzov@drgum.ru</a>
+              <li><b>e-mail:</b>  <a href="mailto:drgum@drgum.ru" target="_system">drgum@drgum.ru</a>
               </li>
               <li><b>www:</b>  <a style="text-decoration: underline; color: blue" onclick="window.open('http://www.drgum.ru', '_system')" target="_system">www.drgum.ru</a>
               </li>
@@ -224,6 +224,28 @@
         </div>                  
       </div>
 
+<hr / >
+
+    <div class="list" ng-hide="form_sent">
+      <h4>Мы ждём ваши пожелания и предложения</h4>
+      <label class="item item-input">
+        <input type="text" placeholder="Ваше имя" ng-model="form.name">
+      </label>
+      <label class="item item-input">
+        <input type="text" placeholder="Ваш Email" ng-model="form.email">
+      </label>
+      <textarea name='text' id='text_about'>
+        
+      </textarea>
+      <button class="button button-energized" ng-click="send_form()" style="margin-top: 20px;">
+            Отправить заявку
+      </button>
+    </div>
+
+    <div ng-show="form_sent">
+        <h4>Спасибо!</h4>
+    </div>
+    <br /><br /><br />
 
       <!--<ul>
       <li>Телефон — <a href='tel:+74959559229' type"tel"> +7 (495) 955-9229</a></li>

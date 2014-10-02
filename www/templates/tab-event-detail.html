@@ -11,13 +11,13 @@
     <div class="list" ng-hide="form_sent">
     	<h4>Регистрация на "{{event.name}}"</h4>
 	  <label class="item item-input">
-	    <input type="text" placeholder="Ваше имя" ng-model="form.name">
+	    <input type="text" placeholder="Ваше имя" ng-model="form.name" name="form_name" id="form_name">
 	  </label>
 	  <label class="item item-input">
-	    <input type="text" placeholder="Ваш Email" ng-model="form.email">
+	    <input type="text" placeholder="Ваш Email" ng-model="form.email" name="form_email" id="form_email">
 	  </label>
 	  <label class="item item-input">
-	    <input type="text" placeholder="Номер телефона" ng-model="form.phone">
+	    <input type="text" placeholder="Номер телефона" ng-model="form.phone" name="form_phone" id="form_phone">
 	  </label>
 
       <button class="button button-energized" ng-click="send_form()" style="margin-top: 20px;">
