@@ -18,6 +18,12 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       // org.apache.cordova.statusbar required
       StatusBar.styleDefault();
     }
+    if(typeof analytics !== "undefined") {
+      analytics.startTrackerWithId("UA-4217169-9");
+    } else {
+      console.log("Google Analytics Unavailable");
+    }
+    
   });
 })
 
@@ -76,6 +82,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })    
 
+    .state('tab.collection', {
+      url: '/collection',
+      views: {
+        'tab-collection': {
+          templateUrl: 'templates/tab-collection.html',
+          controller: 'CollectionCtrl'
+        }
+      }
+    })
+
     .state('tab.about', {
       url: '/about',
       views: {
@@ -99,3 +115,8 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   $urlRouterProvider.otherwise('/tab/events');
 
 });
+
+
+var showBlock = function(block){
+  (document.getElementById(block).style.display == "none") ? document.getElementById(block).style.display = "block" : document.getElementById(block).style.display = "none";
+}

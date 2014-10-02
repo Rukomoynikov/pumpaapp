@@ -195,29 +195,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "platforms/ios/www/templates/tab-about.html",
-			"settings":
-			{
-				"buffer_size": 1308,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "platforms/ios/www/templates/tab-operator.html",
-			"settings":
-			{
-				"buffer_size": 1098,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -256,12 +233,27 @@
 		"/Users/air/Desktop/tabsapp2/platforms",
 		"/Users/air/Desktop/tabsapp2/platforms/ios",
 		"/Users/air/Desktop/tabsapp2/platforms/ios/www",
-		"/Users/air/Desktop/tabsapp2/platforms/ios/www/img",
 		"/Users/air/Desktop/tabsapp2/platforms/ios/www/templates",
+		"/Users/air/Desktop/tabsapp2/www",
 		"/Users/air/Desktop/tabsapp2/www/templates"
 	],
 	"file_history":
 	[
+		"/Users/air/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/templates/tab-about.html",
+		"/Users/air/Desktop/tabsapp2/www/templates/tab-catalog.html",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/templates/tabs.html",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/js/controllers.js",
+		"/Users/air/Desktop/tabsapp2/www/js/app.js",
+		"/Users/air/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/air/Desktop/tabsapp2/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/air/Desktop/tabsapp2/www/js/controllers.js",
+		"/Users/air/Desktop/tabsapp2/plugins/org.apache.cordova.console/CONTRIBUTING.md",
+		"/Users/air/Desktop/tabsapp2/config.xml",
+		"/Users/air/Desktop/tabsapp2/www/templates/tab-about.html",
+		"/Users/air/Desktop/tabsapp2/www/templates/tabs.html",
+		"/Users/air/Desktop/tabsapp2/plugins/org.apache.cordova.inappbrowser/src/amazon/InAppBrowser.java",
+		"/Users/air/Desktop/tabsapp2/platforms/ios/www/templates/tab-operator.html",
 		"/Users/air/Dropbox/Sites/languagegame/index.html",
 		"/Users/air/Dropbox/Sites/languagegame/tasks.txt",
 		"/Users/air/Dropbox/Sites/languagegame/app.js",
@@ -448,96 +440,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "platforms/ios/www/templates/tab-about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1308,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1064,
-								1064
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "platforms/ios/www/templates/tab-operator.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1098,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1057,
-								1057
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -591,6 +495,30 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"controller",
+				"platforms/ios/www/js/controllers.js"
+			],
+			[
+				"tab-cata",
+				"www/templates/tab-catalog.html"
+			],
+			[
+				"conf",
+				"config.xml"
+			],
+			[
+				"abo",
+				"platforms/ios/www/templates/tab-about.html"
+			],
+			[
+				"tabs",
+				"platforms/ios/www/templates/tabs.html"
+			],
 			[
 				"inde",
 				"index.html"

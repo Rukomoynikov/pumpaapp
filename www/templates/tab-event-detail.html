@@ -3,8 +3,7 @@
 
     <h3 style="text-align: center">{{event.name}}</h3>
       <div class="row responsive-sm">
-          <div class="col" ng-bind-html="event.text">
-
+        <div class="col" ng-bind-html="event.text|unsafe">
           </div>
       </div>
 

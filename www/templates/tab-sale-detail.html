@@ -1,7 +1,7 @@
 <ion-view title="{{sale.name}}">
   <ion-content class="has-header padding">
       <div class="row responsive-sm">
-          <div class="col" ng-bind-html="sale.text">
+          <div class="col" ng-bind-html="sale.text|unsafe">
 
           </div>
       </div>
