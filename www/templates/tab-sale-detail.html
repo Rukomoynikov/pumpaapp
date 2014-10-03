@@ -11,13 +11,13 @@
     <div class="list" ng-hide="form_sent">
       <h4>Отправить заявку на "{{sale.name}}"</h4>
     <label class="item item-input">
-      <input type="text" placeholder="Ваше имя" ng-model="form.name">
+      <input type="text" placeholder="Ваше имя" ng-model="form.name" id="form_name" name="form_name">
     </label>
     <label class="item item-input">
-      <input type="text" placeholder="Ваш Email" ng-model="form.email">
+      <input type="text" placeholder="Ваш Email" ng-model="form.email" id="form_email" name="form_email">
     </label>
     <label class="item item-input">
-      <input type="text" placeholder="Номер телефона" ng-model="form.phone">
+      <input type="text" placeholder="Номер телефона" ng-model="form.phone" id="form_phone" name="form_phone">
     </label>
 
       <button class="button button-energized" ng-click="send_form()" style="margin-top: 20px;">
