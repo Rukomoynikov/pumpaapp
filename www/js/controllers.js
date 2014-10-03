@@ -105,7 +105,7 @@ angular.module('starter.controllers', ['ionic'])
             method : 'POST',
             data : 'Сообщение=' + form.name + '\n' + form.email + '\n' + form.text,
             headers: {'Content-Type': 'application/x-www-form-urlencoded'}
-        }).then(function(response){s
+        }).then(function(response){
             $scope.form_sent = true;
         },function(response){
         });
