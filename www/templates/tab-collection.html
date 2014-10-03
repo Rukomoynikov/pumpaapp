@@ -1,20 +1,16 @@
 <ion-view title="Наша продукция">
 <ion-content class="has-header padding">
 
-<div style="text-align: center; width: 601px; margin: 0 auto;">
-  <table cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="" align="center">
-        <div id='tab_1' style='border: 1px solid grey; border-radius: 10px 0px 0px 10px; padding: 10px; background-color:white; color: black' onclick='this.style.background = "grey"; this.style.color = "white"; tab_2.style.background = "white"; tab_2.style.color = "black"; tab_3.style.background = "white"; tab_3.style.color = "black"; operator.style.display = "none"; catalog.style.display = "block"; brochure.style.display = "none"'>Каталоги компании</div>
-      </td>
-      <td width="" align="center">
-        <div id='tab_3' style='width: 120px; border: 1px solid grey; padding: 10px; background: grey; color:white' onclick='this.style.background = "grey"; this.style.color = "white"; tab_1.style.background = "white"; tab_1.style.color = "black"; tab_2.style.background = "white"; tab_2.style.color = "black"; operator.style.display = "none"; catalog.style.display = "none"; brochure.style.display = "block"'>Брошюры</div>
-      </td>
-      <td width="" align="center">
-        <div id='tab_2' style='border: 1px solid grey; border-radius: 0px 10px 10px 0px; padding: 10px; background-color:white; color: black' onclick='this.style.background = "grey"; this.style.color = "white"; tab_1.style.background = "white"; tab_1.style.color = "black"; operator.style.display = "block"; catalog.style.display = "none"; brochure.style.display = "none"; tab_3.style.background = "white"; tab_3.style.color = "black";'>Operator's Dictionary</div>
-      </td>
-    </tr>
-  </table>
+<div class="row responsive-sm responsive-md">
+  <div class="col" id='tab_1' style='border: 1px solid grey; padding: 10px; background-color:white; color: black' onclick='this.style.background = "grey"; this.style.color = "white"; tab_2.style.background = "white"; tab_2.style.color = "black"; tab_3.style.background = "white"; tab_3.style.color = "black"; operator.style.display = "none"; catalog.style.display = "block"; brochure.style.display = "none"'>
+    Каталоги компании
+  </div>
+  <div class="col" id='tab_3' style='border: 1px solid grey; padding: 10px; background: grey; color:white' onclick='this.style.background = "grey"; this.style.color = "white"; tab_1.style.background = "white"; tab_1.style.color = "black"; tab_2.style.background = "white"; tab_2.style.color = "black"; operator.style.display = "none"; catalog.style.display = "none"; brochure.style.display = "block"'>
+Брошюры
+  </div>
+  <div class="col" id='tab_2' style='border: 1px solid grey; padding: 10px; background-color:white; color: black' onclick='this.style.background = "grey"; this.style.color = "white"; tab_1.style.background = "white"; tab_1.style.color = "black"; operator.style.display = "block"; catalog.style.display = "none"; brochure.style.display = "none"; tab_3.style.background = "white"; tab_3.style.color = "black";'>
+    Operator's Dictionary
+  </div>
 </div>
 
 <div style='clear:both'></div>
